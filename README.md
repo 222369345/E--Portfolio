@@ -8,7 +8,7 @@
 ### Evidence
 ![image](https://github.com/user-attachments/assets/e90ec02d-a45a-4ea4-90e5-515b5cceff5b)
 #
-##Skills and Interests
+## Skills and Interests
 #### S - Jobs can be stressful if they do not align with one's values and principles.
 #### T - As values are a foundation of who we are, it is important to know my dislikes and likes.
 #### A - To avoid being in a dreadful job, I need to be honest with myself at all times. 
@@ -16,4 +16,21 @@
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/9f290108-a9c3-44ad-8bf1-e433cb0cc2da)
+#
+## Personality Assessment
+#### S -
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+#
+## Create a CV
+#### S - WHat a CV should look like and the purpose of it, is explained in this module.
+#### T - A CV is a way to market ourselves and highlight our skills
+#### A - The skills in 
+#### R -
+#
+### Evidence
+#
 
