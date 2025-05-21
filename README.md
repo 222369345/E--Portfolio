@@ -40,13 +40,18 @@
 
 #
 ## CV Submission
-#### S -
-#### T -
-#### A -
-#### R -
+#### S - Crafting this CV has made me look inwards. 
+#### T - When I wrote my CV I took what I learnt from the 'Create a CV' module and applied it to practice.
+#### A - I included projects that I worked on and completed successfully. 
+#### R - I was able to concisely showcase my skills and what sets me from the rest.
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/e0ef9f80-d370-4778-aa3d-6c3240abadb3)
+
+#
+## My CV 
+![image](https://github.com/user-attachments/assets/e9f60f05-152d-4425-82b7-523df907158f)
+
 
 
 
