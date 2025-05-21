@@ -50,8 +50,9 @@
 ![image](https://github.com/user-attachments/assets/e0ef9f80-d370-4778-aa3d-6c3240abadb3)
 
 #
-## My CV 
-![image](https://github.com/user-attachments/assets/e9f60f05-152d-4425-82b7-523df907158f)
+<h1><p align="center">My CV</p></h1>
+
+# ![image](https://github.com/user-attachments/assets/e9f60f05-152d-4425-82b7-523df907158f)
 
 
 
