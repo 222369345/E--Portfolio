@@ -5,7 +5,14 @@
 #### A - I have to make a career development plan that will guide in my professional development.
 #### R - This module has put into perspective the kind of work I have to put into myself to have a bright and exciting future.
 #
-###Evidence
+### Evidence
 ![image](https://github.com/user-attachments/assets/e90ec02d-a45a-4ea4-90e5-515b5cceff5b)
 #
 ##Skills and Interests
+#### S -
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+
