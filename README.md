@@ -10,9 +10,9 @@
 #
 ##Skills and Interests
 #### S - Jobs can be stressful if they do not align with one's values and principles.
-#### T - As values are a foundation of who we are, it is important 
-#### A -
-#### R -
+#### T - As values are a foundation of who we are, it is important to know my dislikes and likes.
+#### A - To avoid being in a dreadful job, I need to be honest with myself at all times. 
+#### R - I should always look for what's best and comfortable for me.
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/9f290108-a9c3-44ad-8bf1-e433cb0cc2da)
