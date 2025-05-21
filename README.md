@@ -9,10 +9,11 @@
 ![image](https://github.com/user-attachments/assets/e90ec02d-a45a-4ea4-90e5-515b5cceff5b)
 #
 ##Skills and Interests
-#### S -
-#### T -
+#### S - Jobs can be stressful if they do not align with one's values and principles.
+#### T - As values are a foundation of who we are, it is important 
 #### A -
 #### R -
 #
 ### Evidence
+![image](https://github.com/user-attachments/assets/9f290108-a9c3-44ad-8bf1-e433cb0cc2da)
 
