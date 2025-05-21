@@ -7,6 +7,7 @@
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/e90ec02d-a45a-4ea4-90e5-515b5cceff5b)
+
 #
 ## Skills and Interests
 #### S - Jobs can be stressful if they do not align with one's values and principles.
@@ -16,12 +17,13 @@
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/9f290108-a9c3-44ad-8bf1-e433cb0cc2da)
+
 #
 ## Personality Assessment
-#### S -
-#### T -
-#### A -
-#### R -
+#### S - This mode taught me that my personality and interest should match the job description.
+#### T - When appying for jobs, I have to ensure that the culture of the work environment will match my personality.
+#### A - I have to identify jobs I am more likely to thirve in and enjoy.
+#### R - This has helped to guide me in career path and looking for a job tailored for me.
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/0ac808ea-b0ef-4a6a-b830-5303b9ad1fad)
@@ -30,11 +32,11 @@
 ## Create a CV
 #### S - WHat a CV should look like and the purpose of it, is explained in this module.
 #### T - A CV is a way to market ourselves and highlight our skills
-#### A - The skills in 
-#### R -
+#### A - My showcase my skills and I have to tailor my CV to the job description.
+#### R - This helped me to craft a CV that helped me to secure a job.
 #
 ### Evidence
 ![image](https://github.com/user-attachments/assets/9e69d825-93c8-415d-b675-5f3267c40a43)
-
 #
+
 
