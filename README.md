@@ -104,7 +104,7 @@
 
 #
 ## Work-Place Etiquette
-#### S - In this module i learnt the key to success and how professionalism helps in the workplace.
+#### S - In this module I learnt the key to success and how professionalism helps in the workplace.
 #### T - Reading this helped me adapt in a real workplace.
 #### A - I practice showing respect and a positive attitude towards others.
 #### R - In doing so, I realized that this builds trust, improves teamwork, and creates opportunities.
