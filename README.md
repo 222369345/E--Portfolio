@@ -52,8 +52,63 @@
 #
 <h1><p align="center">My CV</p></h1>
 
+
+
 # ![image](https://github.com/user-attachments/assets/e9f60f05-152d-4425-82b7-523df907158f)
 
+
+
+
+#
+## Business Communication
+#### S - 
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+<img width="1577" height="196" alt="image" src="https://github.com/user-attachments/assets/41966b2f-5621-40a1-b122-2df99ca91630" />
+
+
+#
+## Interview Skills
+#### S - 
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+<img width="1490" height="178" alt="image" src="https://github.com/user-attachments/assets/46bf3442-dc6c-4c82-8f60-0462f88c3e22" />
+
+#
+## Mock Interview
+#### S - 
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+<img width="1166" height="92" alt="image" src="https://github.com/user-attachments/assets/c87d28ee-1f36-4734-b9e6-ca371278fff4" />
+
+#
+## Professional Networking 
+#### S - 
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+<img width="1414" height="174" alt="image" src="https://github.com/user-attachments/assets/466811b2-31de-4624-bb0d-22597c0ed32c" />
+
+#
+## Work-Place Etiquette
+#### S - 
+#### T -
+#### A -
+#### R -
+#
+### Evidence
+<img width="1415" height="176" alt="image" src="https://github.com/user-attachments/assets/f061d58f-3c23-4d7e-aac7-2d9f448346f3" />
 
 
 
